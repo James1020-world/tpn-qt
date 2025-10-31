@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>connect.png</file>  <!-- Download 16x16 icons: connect (green arrow), disconnect (red X) -->
+        <file>disconnect.png</file>
+        <file>wg-logo.png</file>  <!-- Optional logo -->
+    </qresource>
+</RCC>
